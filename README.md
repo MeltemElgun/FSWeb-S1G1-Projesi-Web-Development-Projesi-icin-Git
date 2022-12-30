@@ -1,4 +1,3 @@
-
 # Web Development Projesi İçin Git
 
 Yeni bir kurumda bir Full Stack Web Developer olarak işe başladığınızı hayal edin. 
